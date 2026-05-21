@@ -2,4 +2,4 @@
 
 Demo Link- https://ankitjha16.github.io/Tour-Website/
 
- Travel website 2 (html,css,javascript)
+ Tour Website (html,css,javascript)
